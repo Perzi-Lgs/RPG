@@ -1,0 +1,4 @@
+1:Slime Bleu:30:10:1:(PATH SPRITE):0:0:0:0
+1:Slime Rouge:30:10:1:(PATH SPRITE):0:0:0:0
+2:Slime Jaune:100:25:5(PATH SPRITE):0:0:0:0
+2:Slime Violet:100:25:5(PATH SPRITE):0:0:0:0

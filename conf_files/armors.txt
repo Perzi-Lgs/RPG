@@ -1,0 +1,18 @@
+EPEE
+Epee en Bois:1:5:0:./pictures/swords.png:0;0;100;102
+Epee en Cuivre:10:20:0:./pictures/swords.png:100;0;100;102
+Epee en Fer:20:40:0:./pictures/swords.png:200;0;100;102
+Epee en Metal:30:60:0:./pictures/swords.png:300;0;100;102
+Epee du Dev:0:999:999:./pictures/swords.png:300;0;100;102
+BOUCLIER
+Bouclier en Bois:1:1:5:./pictures/swords.png:100;0;100;102
+Bouclier en Cuivre:10:1:20:./pictures/swords.png:300;0;100;102
+Bouclier en Fer:20:1:40:./pictures/swords.png:300;0;100;102
+Bouclier en Metal:30:1:60:./pictures/swords.png:300;0;100;102
+Bouclier du Dev:0:999:999:./pictures/swords.png:300;0;100;102
+ARMURE
+Armure en Bois:10:1:15:./pictures/swords.png:300;0;100;102
+Armure en Cuivre:20:1:30:./pictures/swords.png:300;0;100;102
+Armure en Fer:30:1:60:./pictures/swords.png:300;0;100;102
+Armure en Metal:30:0:90:./pictures/swords.png:300;0;100;102
+Armure du Dev:0:999:999:./pictures/swords.png:300;0;100;102
